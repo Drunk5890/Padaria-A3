@@ -174,18 +174,6 @@ Cliente cadastrado!
 
 | Nome | RA |
 |------|----|
-|      |    |
-|      |    |
-|      |    |
-|      |    |
-|      |    |
-|      |    |
-
----
-
-## 🏫 Informações Acadêmicas
-
-- **Disciplina:** Lógica de Programação com POO
-- **Projeto:** A3
-- **Entrega:** Junho de 2026
-- **Linguagem:** Java
+|Yuri Richard da Silva|12826132322|
+|Pedro Henrique Casado Pacheco|12826124840|
+|flauberth dennes teixeira de souza|12826124021|
